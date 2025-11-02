@@ -64,7 +64,7 @@
 ### 1. Клонирование репозитория
 ```bash
 git clone https://github.com/Tomato-angel/MIST_25-2-2_Sidorov_Evgeniy_PLFWWBD.git
-cd MIST_25-2-2_Sidorov_Evgeniy_PLFWWBD.git
+cd MIST_25-2-2_Sidorov_Evgeniy_PLFWWBD
 ```
 
 ### 2. Настройка виртуального окружения
@@ -97,9 +97,9 @@ jupyter lab
 
 **Для Windows:**
 ```bash
-git clone https://github.com/Tomato-angel/MIST_25-2-2_Sidorov_Evgeniy_PLFWWBD.git && cd big-data-misis && python -m venv .venv && .venv\Scripts\pip install -r requirements.txt && .venv\Scripts\python -m jupyter lab
+git clone https://github.com/Tomato-angel/MIST_25-2-2_Sidorov_Evgeniy_PLFWWBD.git && cd MIST_25-2-2_Sidorov_Evgeniy_PLFWWBD && python -m venv .venv && .venv\Scripts\pip install -r requirements.txt && .venv\Scripts\python -m jupyter lab
 ```
 **Для Linux/MacOS:**
 ```bash
-git clone https://github.com/Tomato-angel/MIST_25-2-2_Sidorov_Evgeniy_PLFWWBD.git && cd big-data-misis && python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt && jupyter lab
+git clone https://github.com/Tomato-angel/MIST_25-2-2_Sidorov_Evgeniy_PLFWWBD.git && cd MIST_25-2-2_Sidorov_Evgeniy_PLFWWBD && python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt && jupyter lab
 ```
