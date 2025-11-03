@@ -1,2 +1,4 @@
-/.venv
-*/.ipynb_checkpoin/
+*/.venv
+*/.venv/
+*/.ipynb_checkpoints
+*/.ipynb_checkpoints/
